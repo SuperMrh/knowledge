@@ -25,7 +25,7 @@ RESTful --> 表象性状态转移风格
 
 
 
-![1534205359737](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534205359737.png)
+![1534205359737](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534205359737.png)
 
 #### 前后分离之前 - 前端处理
 
@@ -35,7 +35,7 @@ RESTful --> 表象性状态转移风格
 
 
 
-![1534207928959](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534207928959.png)
+![1534207928959](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534207928959.png)
 
 #### 前后分离后初级 - 后端处理
 
@@ -48,11 +48,11 @@ RESTful --> 表象性状态转移风格
 '''
 ~~~
 
-![1534206073308](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534206073308.png)
+![1534206073308](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534206073308.png)
 
 #### 前后分离后初级 - 前端处理
 
-![1534208167404](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534208167404.png)
+![1534208167404](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534208167404.png)
 
 #### 前后分离进阶
 
@@ -82,7 +82,7 @@ RESTful --> 表象性状态转移风格
 
 ####(1)导入相关模块 / 在工程url中注册rest_framework
 
-![1534291903320](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534291903320.png)
+![1534291903320](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534291903320.png)
 
 ####(2)定义序列化模型(serializer)
 
@@ -92,11 +92,11 @@ RESTful --> 表象性状态转移风格
 
 
 
-![1534291984168](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534291984168.png)
+![1534291984168](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534291984168.png)
 
 #### (3)实例化SimpleRouter对象 / 注册需要管理的资源和处理视图函数
 
-![1534292347422](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534292305798.png)
+![1534292347422](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534292305798.png)
 
 ####(4)定义用户资源模型
 
@@ -112,13 +112,13 @@ mixins.UpdateModelMixin --> Update a model instance.(更新模型实例)
 
 
 
-![1534292418000](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534292418000.png)
+![1534292418000](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534292418000.png)
 
 #### 前端的AJAX请求及响应
 
-![1534292518974](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534292518974.png)
+![1534292518974](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534292518974.png)
 
-![1534292680512](C:\Users\SuperMee\Desktop\knowledge\rest_images\1534292680512.png)
+![1534464533454](https://github.com/SuperMrh/knowledge/blob/master/rest_images/1534292680512.png)
 
 ~~~python
 '''
